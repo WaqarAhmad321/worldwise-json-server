@@ -1,0 +1,26 @@
+{
+    "cities": [
+      {
+        "cityName": "Toro",
+        "country": "Spain",
+        "notes": "j",
+        "date": "2023-09-10T19:00:00.000Z",
+        "position": {
+          "lat": "41.376808565702355",
+          "lng": "-5.51513671875"
+        },
+        "id": 1
+      },
+      {
+        "cityName": "San Lorenzo de El Escorial",
+        "country": "Spain",
+        "notes": "k",
+        "date": "2023-09-06T19:00:00.000Z",
+        "position": {
+          "lat": "40.613952441166596",
+          "lng": "-4.130859375000001"
+        },
+        "id": 3
+      }
+    ]
+  }
